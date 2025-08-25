@@ -37,12 +37,14 @@ Analyze one year of pizza sales to provide insights into revenue, order trends, 
 ---
 
 ##  Dashboard Pages 
-Here are highlights from the dashboard:
+Here are the pages from the dashboard:/
 
 **Overview: Orders Made vs Sold**  
-![Overview Dashboard](dashboards /screenshots/Overview_Sales_Dashboard.png.png)
+![Overview Dashboard](NYC_Pizza_Sale_Performance_Dashboard/Dashboard_and_Visuals/Overview_Sales_Dashboard.png.png)
+
 **Sales and Inventory Performance**  
-![Performance Dashboard](dashboards /screenshots/Sales_Performance_Dashboard.png)
+![Performance Dashboard](NYC_Pizza_Sale_Performance_Dashboard/Dashboard_and_Visuals/Sales_Performance_Dashboard.png)
+
 ---
 
 ## 📑 Key Findings
@@ -50,8 +52,4 @@ Here are highlights from the dashboard:
 - Fridays are peak sales days, contributing ~15% of weekly revenue.  
 - Average order value: $23.50; average pizzas per order: 2.3.  
 - Month-over-month analysis shows steady revenue growth with seasonal peaks in summer.
-
----
-
-## 📂 Repository Structure
 
