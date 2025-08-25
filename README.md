@@ -48,7 +48,7 @@ Here are the pages from the dashboard:/
 - Fridays drive peak demand with ~8.2K pizzas sold and ~3.5K orders placed.
 - Summer months (May–July) show the strongest seasonal order volumes.
 - November achieved the highest MoM growth (+17.68%), signaling a strong promotional or seasonal impact.
-- Veggie pizzas contribute 23.86% of revenue, but many vegetarian SKUs underperform → excess variety may be inflating costs.
+- Veggie pizzas contribute 23.86% of revenue, but many vegetarian SKUs underperform, the excess variety is inflating the costs.
 
 
 ## Business Suggestion Strategies 
@@ -56,6 +56,6 @@ Here are the pages from the dashboard:/
 - Leverage peak periods: Target promotions and upsell strategies around Fridays and summer months.
 - Investigate November growth drivers: Double down on successful campaigns or seasonal promotions.
 - Enhance customer insights: Segment by repeat vs. new buyers to refine targeting.
-	- Forecast demand: Build predictive models for seasonal sales planning and inventory optimization
+- Forecast demand: Build predictive models for seasonal sales planning and inventory optimization
 
 
