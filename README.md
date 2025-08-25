@@ -2,12 +2,12 @@
 
 Power BI dashboard analyzing one year of pizza sales data in NYC to uncover trends, track key performance indicators (KPIs), and support data-driven business decisions.
 
----
+--
 
 ## Objective
 Analyze one year of pizza sales to provide insights into revenue, order trends, and product performance. The goal is to help stakeholders optimize promotions, inventory, and sales strategies.
 
----
+--
 
 ## Tech Stack
 - **Database:** MS SQL Server
@@ -15,7 +15,7 @@ Analyze one year of pizza sales to provide insights into revenue, order trends, 
 - **Calculations:** DAX for KPIs and trend analysis  
 - **Data Analysis:** SQL for queries and data modeling  
 
----
+--
 
 ## Dashboard Features
 **KPIs (Cards):**  
@@ -34,22 +34,16 @@ Analyze one year of pizza sales to provide insights into revenue, order trends, 
 - MoM Chart: Month-over-month sales growth  
 - Performance Chart: Average Pizza Sale Performance (below / meets / above average)  
 
----
+--
 
 ##  Dashboard Pages 
 Here are the pages from the dashboard:/
 
 **Overview: Orders Made vs Sold**  
-![Overview Dashboard](NYC_Pizza_Sale_Performance_Dashboard/Dashboard_and_Visuals/Overview_Sales_Dashboard.png.png)
+![Overview Dashboard](Dashboard_and_Visuals/Overview_Sales_Dashboard.png.png)
 
 **Sales and Inventory Performance**  
-![Performance Dashboard](NYC_Pizza_Sale_Performance_Dashboard/Dashboard_and_Visuals/Sales_Performance_Dashboard.png)
+![Performance Dashboard](Dashboard_and_Visuals/Sales_Performance_Dashboard.png)
 
----
 
-## 📑 Key Findings
-- Large pizzas make up ~40% of revenue but only ~25% of orders, highlighting high-value items.  
-- Fridays are peak sales days, contributing ~15% of weekly revenue.  
-- Average order value: $23.50; average pizzas per order: 2.3.  
-- Month-over-month analysis shows steady revenue growth with seasonal peaks in summer.
 
