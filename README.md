@@ -1,5 +1,4 @@
-# NYC_Pizza_Sale_Performance_Dashboard
-# NYC Pizza Annual Sales Report
+# NYC Pizza Annual Sales Report: Interactive Dashboard
 
 Power BI dashboard analyzing one year of pizza sales data in NYC to uncover trends, track key performance indicators (KPIs), and support data-driven business decisions.
 
@@ -41,9 +40,9 @@ Analyze one year of pizza sales to provide insights into revenue, order trends, 
 Here are highlights from the dashboard:
 
 **Overview: Orders Made vs Sold**  
-
+![Overview Dashboard](dashboards /screenshots/Overview_Sales_Dashboard.png.png)
 **Sales and Inventory Performance**  
-
+![Performance Dashboard](dashboards /screenshots/Sales_Performance_Dashboard.png)
 ---
 
 ## 📑 Key Findings
