@@ -62,9 +62,9 @@ Here are the pages from the dashboard:/
 
  **Product Mix**
    - Veggie pizzas make up 23.9% of revenue, but several SKUs underperform. Excess variety inflates costs without driving revenue. Streamlining low-performing SKUs can reduce costs while maintaining sales. Focus should be on high-performing products to improve profitability.
- 
- **Promotional Impact**
-    - November saw a +17.7% month-over-month growth. This spike suggests a successful seasonal promotion or campaign. Identifying the drivers of this growth can help replicate results. Future promotions should leverage these insights for maximum impact. 
+
+**Promotional Impact**
+   - November saw a +17.7% month-over-month growth. This spike suggests a successful seasonal promotion or campaign. Identifying the drivers of this growth can help replicate results. Future promotions should leverage these insights for maximum impact. 
 
 ## Next Steps
 - Incorporate customer segmentation (new vs. repeat buyers)  
